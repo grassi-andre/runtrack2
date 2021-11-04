@@ -5,6 +5,7 @@ do that";
 
 $voy = "aeiouyI";
 $i = 0 ;
+
 while (isset($str[$i])){
     $a = 0;
         while (isset($voy[$a])){
